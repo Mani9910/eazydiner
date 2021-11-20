@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-20T16:54:38 IST" name="Default suite" finished-at="2021-11-20T16:54:57 IST" duration-ms="18818">
+    <groups>
+    </groups>
+    <test started-at="2021-11-20T16:54:38 IST" name="Default test" finished-at="2021-11-20T16:54:57 IST" duration-ms="18818">
+      <class name="eazydiner.eazydiner.Testcase4">
+        <test-method signature="RestaurantSearch()[pri:0, instance:eazydiner.eazydiner.Testcase4@865dd6]" started-at="2021-11-20T16:54:38 IST" name="RestaurantSearch" finished-at="2021-11-20T16:54:57 IST" duration-ms="18732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestaurantSearch -->
+      </class> <!-- eazydiner.eazydiner.Testcase4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
